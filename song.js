@@ -17,13 +17,13 @@ let songs = [
         name: " Đừng làm trái tim anh đau",
         path: "music/Dung lam trai tim anh dau.mp3",
         artist: "Sơn Tùng MTP",
-        image: "" // Thay \ bằng /
+        image: "images/dung_lam_trai_tim_anh_dau.png" // Thay \ bằng /
     },
 
     {
         name: "Unstoppable",
         path: "music/Unstoppable.mp3",
         artist: "Sia",
-        image: "" // Thay \ bằng /
+        image: "images/unstopppable.png" // Thay \ bằng /
     },
 ];
